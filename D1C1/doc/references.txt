@@ -1,0 +1,28 @@
+PCEP
+====
+2.1.1.7 Your first program - print function
+2.2.1 Python literals - string, integers
+2.2.1 Python literals - More on String
+2.3.1 Operators - data manipulation tools - Addition
+2.4.1 Variables - data-shaped boxes
+2.5.1 A comment on comments
+2.6.1 How to talk to a computer - Type casting
+2.6.1 How to talk to a computer - String operations
+2.6.1 How to talk to a computer - String operations - String casting
+3.2.1 Loops in Python | for
+4.1.1 Functions
+4.2.1 Parameterized functions
+4.2.1 Parameterized functions - Positional parameter passing
+4.3.1 Returning a result from a function
+4.4.1 Scopes in Python
+4.5.1 Creating Functions
+4.7.1 Testing and debugging
+4.7.1 Print debugging
+
+
+PCAP
+====
+2.2.1 The nature of strings in Python - Operations on strings - indexing
+2.3.1 String methods - isalpha() isdigit()
+4.3.1.1 Processing text files
+4.3.1.5 Processing text files - readlines()

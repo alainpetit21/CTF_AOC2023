@@ -1,0 +1,5 @@
+
+Same algo as c1 .. but instead of calculating the sum right away ... we had all card in
+an list (FIFO) of "to be processed" which allow us to add specific card at the end of that FIFO
+list as we run into it.
+

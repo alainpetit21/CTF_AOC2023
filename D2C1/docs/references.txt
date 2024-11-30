@@ -1,0 +1,21 @@
+PCEP
+====
+2.1.1.7 Your first program - print function
+2.2 Python literals - string, integers
+2.2.1.10 Python literals - Boolean
+2.3.1.14 String methods - split()
+2.4 Variables - data-shaped boxes
+3.1.1.6 Making decisions in Python - if statement
+3.1.1.7 Making decisions in Python - if-else-elif statement
+3.2.1.4 Loops in Python | for
+3.6 Operations on lists
+4.2 Parameterized functions
+4.2.1.4 Parameterized functions - Positional parameter passing
+4.3 Returning a result from a function
+4.6.1.1 Tuples and dictionaries - Tuples
+4.6.1.2 Tuples and dictionaries - dictionary
+
+
+PCAP
+====
+4.3 Processing text and binary files

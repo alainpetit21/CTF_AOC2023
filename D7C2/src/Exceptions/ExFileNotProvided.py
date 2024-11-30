@@ -1,0 +1,3 @@
+
+class ExFileNotProvided(Exception):
+    pass

@@ -1,0 +1,17 @@
+The CHALLENGE contains several HANDS which consists of several a list of CARDS and a BET. An ANALYZER process exist
+to analyse the hand in accordance with rules that are similar to those of poker.
+
+class Challenge
+  /\
+   |
+   |
+   class ChallengeDay7C2
+
+class HAND
+  | n
+  |
+  /\
+  \/ n
+  class CARD
+   int bet
+

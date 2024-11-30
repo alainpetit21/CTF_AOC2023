@@ -1,0 +1,21 @@
+create object for the map .. .since there are all the same format
+method for interpreting the file, separate the sections, push that to the map objet
+
+LoadFile
+For each line
+  if line == seeds: (\d+\s)*
+    buildSeedArray
+  elif line == ([a-z\-]*\s) map
+    buildMapArray name is group1 of the regex
+  elif line == \n
+    finish last section
+map.sort
+location = humidity2Location(
+            temperature2Humidity(
+                light2Temperature(
+                    water2Light(
+                        fertilizer2Water(
+                            soil2Fertilizer(
+                                seed2Soil()))))))
+build an array of location
+find min value

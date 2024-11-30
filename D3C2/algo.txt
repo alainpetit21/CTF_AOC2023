@@ -1,0 +1,10 @@
+Read into a 2D array (list of list)
+Scanner to scan for symbol
+for each symbol scan according to kernel (-1,-1 to +1,+1)
+if a number is found, look left and right to find the whole number
+and put in a binary buffer to be executed in another phase, a set of operation in (x, y). (Set because it while overlap uniques)
+
+
+
+change the symbol array to be only the gear part
+add a check in the kernel return generator to ensure that the cpt makes 2 and only 2
